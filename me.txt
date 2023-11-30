@@ -2,4 +2,6 @@
 
 Installing VMware and VirtualBox on Windows
 Downloading Virtual Machine Image
+    download oracle pre-built virtual machine 
+Configuring the VMware Virtualization Software
     

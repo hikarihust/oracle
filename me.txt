@@ -2,7 +2,9 @@
 
 Installing VMware and VirtualBox on Windows
 Downloading Virtual Machine Image
-    download oracle pre-built virtual machine 
+    download oracle pre-built virtual machine
+    database 19c: https://drive.google.com/file/d/15jb7mtnw1qu1y3xHktxn2llvm9bo2qOp/view?usp=drive_link 
 Configuring the VMware Virtualization Software
 Configuring the Oracle VirtualBox Virtualization Software
+Configuring SQL Developer inside of the Virtual Machine
     

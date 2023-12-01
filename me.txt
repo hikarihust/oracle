@@ -7,4 +7,5 @@ Downloading Virtual Machine Image
 Configuring the VMware Virtualization Software
 Configuring the Oracle VirtualBox Virtualization Software
 Configuring SQL Developer inside of the Virtual Machine
+Downloading And Installing Oracle Database
     

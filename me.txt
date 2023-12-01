@@ -9,4 +9,5 @@ Option 1: Configuring the Oracle VirtualBox Virtualization Software
 Option 1: Configuring SQL Developer inside of the Virtual Machine
 Option 2: Downloading And Installing Oracle Database
 Option 2: Unlocking the HR Schema
+Option 2: Configuring and Using the SQL Developer
     

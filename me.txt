@@ -17,4 +17,5 @@ Option 2: Installing Sample Schemas in Oracle Database
                                 Retrieving Data
 
 Using Column Aliases
+Quote (Q) Operator
     

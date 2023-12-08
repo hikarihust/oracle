@@ -18,4 +18,5 @@ Option 2: Installing Sample Schemas in Oracle Database
 
 Using Column Aliases
 Quote (Q) Operator
+DISTINCT and UNIQUE Operator
     

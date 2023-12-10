@@ -27,4 +27,5 @@ Arithmetic Expressions and NULL Values
                                 Restricting Data
 
 LIKE Operator
+Rules of Precedence
     

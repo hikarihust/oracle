@@ -20,4 +20,5 @@ Using Column Aliases
 Quote (Q) Operator
 DISTINCT and UNIQUE Operator
 Concatenation Operators
+Arithmetic Expressions and NULL Values
     

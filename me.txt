@@ -34,4 +34,5 @@ Rules of Precedence
                                 Sorting Data
         
 ORDER BY Clause
+ASC and DESC Operators
     

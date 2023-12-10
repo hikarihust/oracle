@@ -28,4 +28,10 @@ Arithmetic Expressions and NULL Values
 
 LIKE Operator
 Rules of Precedence
+
+===================================================================================================================
+
+                                Sorting Data
+        
+ORDER BY Clause
     

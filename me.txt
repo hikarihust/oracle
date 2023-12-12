@@ -39,3 +39,9 @@ NULLS FIRST and NULLS LAST Operators
 ROWNUM & ROWID in SQL
 Oracle FETCH Clause
     
+===================================================================================================================
+
+                                Using Substitution Variables
+
+What is a Substitution Variable?
+    

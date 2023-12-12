@@ -37,4 +37,5 @@ ORDER BY Clause
 ASC and DESC Operators
 NULLS FIRST and NULLS LAST Operators
 ROWNUM & ROWID in SQL
+Oracle FETCH Clause
     

@@ -45,4 +45,5 @@ Oracle FETCH Clause
 
 What is a Substitution Variable?
 Double Ampersand (&&) and DEFINE & UNDEFINE Commands
+ACCEPT and PROMPT Commands
     

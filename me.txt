@@ -53,4 +53,5 @@ SET VERIFY ON / SET VERIFY OFF Commands
                                 Single-Row Functions
 
 Character Functions - Case Conversion (LOWER, UPPER, INITCAP) Functions
+Character Functions - Character Manipulation Functions (Part 1)
     

@@ -47,4 +47,10 @@ What is a Substitution Variable?
 Double Ampersand (&&) and DEFINE & UNDEFINE Commands
 ACCEPT and PROMPT Commands
 SET VERIFY ON / SET VERIFY OFF Commands
+
+===================================================================================================================
+
+                                Single-Row Functions
+
+Character Functions - Case Conversion (LOWER, UPPER, INITCAP) Functions
     

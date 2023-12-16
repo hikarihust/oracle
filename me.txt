@@ -56,4 +56,5 @@ Character Functions - Case Conversion (LOWER, UPPER, INITCAP) Functions
 Character Functions - Character Manipulation Functions (Part 1)
 Character Functions - Character Manipulation Functions Part 2 (INSTR Function)
 Character Functions - Part 3 (TRIM, LTRIM, RTRIM Functions)
+Character Functions - Part 4 (REPLACE, LPAD, RPAD Functions)
     

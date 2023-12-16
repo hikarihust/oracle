@@ -55,4 +55,4 @@ select first_name, RPAD(first_name,10,'*') pad from employees;
 select first_name, RPAD(first_name,6,'*') pad from employees;
 select first_name, LPAD(first_name,6,'*') pad from employees;
 select first_name, LPAD('My name is ',20,'-') pad from employees;
-select first_name, LPAD('My name is '||last_name ,20,'-') pad from employees;
+select first_name, last_name, LPAD('My name is '||last_name ,20,'-') pad from employees;

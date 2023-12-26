@@ -57,4 +57,6 @@ Character Functions - Character Manipulation Functions (Part 1)
 Character Functions - Character Manipulation Functions Part 2 (INSTR Function)
 Character Functions - Part 3 (TRIM, LTRIM, RTRIM Functions)
 Character Functions - Part 4 (REPLACE, LPAD, RPAD Functions)
+Numeric Functions
+    https://docs.oracle.com/cd/E49933_01/server.770/es_eql/src/ceql_functions_numeric.html
     

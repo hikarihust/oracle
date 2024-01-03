@@ -60,4 +60,5 @@ Character Functions - Part 4 (REPLACE, LPAD, RPAD Functions)
 Numeric Functions
     https://docs.oracle.com/cd/E49933_01/server.770/es_eql/src/ceql_functions_numeric.html
 Nested Functions
+Date Functions & Arithmetic Operations on Dates
     

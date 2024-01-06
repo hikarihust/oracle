@@ -77,4 +77,5 @@ Null-Related (NVL, NVL2, NULLIF, COALESCE) Functions
                                 Conditional Expressions
 
 Oracle Conditional Expressions: CASE Expressions
+Oracle Conditional Expressions: DECODE Function
     

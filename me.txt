@@ -85,4 +85,5 @@ Oracle Conditional Expressions: DECODE Function
 
 Group Functions
 AVG Function
+COUNT Function
     

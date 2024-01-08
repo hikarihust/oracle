@@ -88,4 +88,5 @@ AVG Function
 COUNT Function
 MAX Function
 MIN Function
+SUM Function
     

@@ -91,4 +91,10 @@ MIN Function
 SUM Function
 LISTAGG Function
 Overview Of Group Functions
+
+===================================================================================================================
+
+                                Grouping Data
+
+GROUP BY Clause (Part 1)
     

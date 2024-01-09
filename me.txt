@@ -100,4 +100,10 @@ GROUP BY Clause (Part 1)
 GROUP BY Clause (Part 2)
 HAVING Clause
 Nested Group Functions
+
+===================================================================================================================
+
+                                Joining Multiple Tables
+
+Oracle SQL Join Types
     

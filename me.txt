@@ -111,4 +111,5 @@ Handling Ambiguous Column Names
 Inner Join & Join with the ON Clause
 Multiple Join Operations
 Restricting Joins
+Self Join
     

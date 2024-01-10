@@ -110,4 +110,5 @@ Join with the USING Clause
 Handling Ambiguous Column Names
 Inner Join & Join with the ON Clause
 Multiple Join Operations
+Restricting Joins
     

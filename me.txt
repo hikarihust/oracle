@@ -106,4 +106,5 @@ Nested Group Functions
                                 Joining Multiple Tables
 
 Oracle SQL Join Types
+Join with the USING Clause
     

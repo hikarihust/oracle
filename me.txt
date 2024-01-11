@@ -113,4 +113,5 @@ Multiple Join Operations
 Restricting Joins
 Self Join
 Non-Equijoins (Joining Unequal Tables)
+OUTER JOINS
     

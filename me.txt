@@ -115,4 +115,5 @@ Self Join
 Non-Equijoins (Joining Unequal Tables)
 OUTER JOINS
 LEFT OUTER JOIN (LEFT JOIN)
+RIGHT OUTER JOIN (RIGHT JOIN)
     

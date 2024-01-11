@@ -114,4 +114,5 @@ Restricting Joins
 Self Join
 Non-Equijoins (Joining Unequal Tables)
 OUTER JOINS
+LEFT OUTER JOIN (LEFT JOIN)
     

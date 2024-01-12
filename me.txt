@@ -119,4 +119,5 @@ RIGHT OUTER JOIN (RIGHT JOIN)
 FULL OUTER JOIN (FULL JOIN)
 Cross Join (Cartesian Product / Cross Product)
 Oracle's Old Style Join Syntax (ANSI vs Non-ANSI Joins) (Part 1)
+Oracle's Old Style Join Syntax (ANSI vs Non-ANSI Joins) (Part 2)
     

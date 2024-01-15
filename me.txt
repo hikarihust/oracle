@@ -122,4 +122,5 @@ Oracle's Old Style Join Syntax (ANSI vs Non-ANSI Joins) (Part 1)
 Oracle's Old Style Join Syntax (ANSI vs Non-ANSI Joins) (Part 2)
 Oracle's Old Style Join Syntax (ANSI vs Non-ANSI Joins) (Part 3)
 The Differences Between The Inner Joins & Outer Joins, Equijoins & Non-Equijoins
+Which Join Type Should You Use?
     
